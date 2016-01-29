@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Dark Hero</title><link href="http://darkhero.jp/" rel="alternate"></link><link href="http://darkhero.jp/feeds/pelican.atom.xml" rel="self"></link><id>http://darkhero.jp/</id><updated>2015-01-04T22:00:00+09:00</updated><entry><title>最初のPelicanブログ</title><link href="http://darkhero.jp/first-post.html" rel="alternate"></link><updated>2015-01-04T22:00:00+09:00</updated><author><name>matt</name></author><id>tag:darkhero.jp,2015-01-04:first-post.html</id><summary type="html">&lt;h1&gt;&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;SyntaxHighlitだってバッチリ！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;  &lt;span class="k"&gt;print&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;Hello World!!&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="pelican"></category><category term="python"></category></entry></feed>
